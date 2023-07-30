@@ -18,7 +18,7 @@
       class="middle none center mr-4 rounded-lg bg-slate-500 py-3 px-6 font-sans text-lg font-bold uppercase text-white shadow-md shadow-white-500/20 transition-all hover:shadow-lg hover:shadow-black-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
       data-ripple-light="true"
     >
-      <NuxtLink to="/events/profiles"> profiles </NuxtLink>
+      <NuxtLink to="/events/temps"> Temps</NuxtLink>
     </button>
   </div>
 </template>

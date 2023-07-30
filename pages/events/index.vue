@@ -1,5 +1,6 @@
 <template>
   <div>
-    Events
+    <Graph />
+    hi
   </div>
 </template>
